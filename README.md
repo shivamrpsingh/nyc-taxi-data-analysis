@@ -15,7 +15,7 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contribute to this open source project - https://github.com/mage-ai/mage-ai
+Contribute to this open-source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
@@ -29,7 +29,6 @@ More info about the dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
-
+![data_model](https://github.com/shivamrpsingh/nyc-taxi-data-analysis/assets/56008163/aca30203-66c6-47a8-8f7d-b227eea15d8c)
 
 
